@@ -46,6 +46,25 @@ How to create an OpenShift cluster in IBM Cloud, how to create a project in the 
 3. Use the key for this event (ask nigel if you don't have it)
 4. Select the US East Region
 
+Your completed screen should resemble what's below:
+![checkedWelcome](images/checkedWelcome.png)
+
+After submitting, you should see a screen similar to the following image:
+![congrats](images/congrats.png)
+
+Log in to your cloud account and have a look at your dashboard. In the dropdown where your name is displayed, select 1840867 - IBM
+
+![dashboard](images/dashboard.png)
+
+Select "Clusters" and click on your cluster that was assigned to you when you submitted your credentials:
+
+![dashboard2](images/dashboard2.png)
+
+You should be taken to the page for your cluster which will resemble the page below:
+![cluster dashboard](images/osCloud.png)
+
+
+
 ## Part 3: Red Hat Tutorials (Optional)
 
 Ordinarily, there would be some downtime between the creation of your OpenShift cluster and your ability to access it. Since we've already done this ahead of time, you can log right on and start working with it. If you'd like a safe test environment to learn about OpenShift, there is a lot of really good material at the Red Hat OpenShift [Interactive Learning Portal](https://learn.openshift.com/). You get access to a real OpenShift system during these tutorials.
@@ -66,7 +85,7 @@ In this tutorial you will learn the fundamentals:
 2) [Deploying Applications From Images](https://learn.openshift.com/introduction/deploying-images/):
 This tutorial is about deploying an application from an existing image (from Docker Hub) and how OpenShift creates a deployment on Kubernetes without the developer touching any YAML files. It includes:
 
-   * Creating a Project
+   * Creating a Projects
    * Deploy a Docker image from the Web Console
    * Create an external Route
    * Delete an application (everything) from the command line using labels
