@@ -17,21 +17,6 @@ In this workshop we will show you how to create your own OpenShift cluster on th
 
 This workshop has been adapted from [this repository](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops).
 
-
-## Part 1: Introduction
-
-Our colleague Sai Vennam, IBM Cloud Developer Advocate, has created two videos about OpenShift on the IBM Cloud that you should watch:
-
-1. <a href="https://www.youtube.com/watch?v=hdwDMsDF9J8" target="blank">Intro to Red Hat OpenShift on IBM Cloud</a> (Duration: 2 mins)
-[![Video 1](images/video1.png)](https://www.youtube.com/watch?v=hdwDMsDF9J8)
-
-   What is OpenShift? OpenShift on the IBM Cloud is a fully managed offering, with multiple deployment options, and certification. It is a Unified Hybrid Cloud platform.
-
-2. <a href="https://www.youtube.com/watch?v=l4Vrj7mkxhQ" target="blank">Guided Tour for Red Hat OpenShift on IBM Cloud</a> (Duration: 6 mins) 
-[![Video 2](images/video2.png)](https://www.youtube.com/watch?v=l4Vrj7mkxhQ)
-
-   How to create an OpenShift cluster in IBM Cloud, how to create a project in the OpenShift Web Console.
-
 **Labs**
 
 1. Introduction: [video (2:04 mins)](https://www.youtube.com/watch?v=hdwDMsDF9J8) and [video (5:45 mins)](https://www.youtube.com/watch?v=l4Vrj7mkxhQ)
