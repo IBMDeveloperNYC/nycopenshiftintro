@@ -87,8 +87,6 @@ This tutorial uses a code repository on Github that holds a Python application. 
 
 ## Part 4: Deploy an application on OpenShift on the IBM Cloud
 
-## Part 4: Deploy an application on OpenShift on the IBM Cloud
-
 The setup of the OpenShift cluster must be completed to finish this workshop. It is completely set up when the worker node(s) show a status of "Normal" in the "Worker Nodes" section __AND__
 
 ![OS Create 1g](images/os_worker_rdy.png)
