@@ -17,10 +17,18 @@ In this workshop we will show you how to create your own OpenShift cluster on th
 
 This workshop has been adapted from [this repository](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops).
 
-**Labs**
+## Labs
 
-1. Introduction: [video (2:04 mins)](https://www.youtube.com/watch?v=hdwDMsDF9J8) and [video (5:45 mins)](https://www.youtube.com/watch?v=l4Vrj7mkxhQ)
-2. Create an OpenShift cluster on the IBM Cloud: [lab](1-understanding-openshift/Part2.md) and [video (3:17 mins)](https://youtu.be/9xgqDP2B3WI)
+1. Introduction: 
+
+[![Intro to Red Hat OpenShift on IBM Cloud](http://img.youtube.com/vi/hdwDMsDF9J8/0.jpg)](http://www.youtube.com/watch?v=hdwDMsDF9J8 "Intro to Red Hat OpenShift on IBM Cloud")
+
+[![Guided Tour for Red Hat OpenShift on IBM Cloud](http://img.youtube.com/vi/l4Vrj7mkxhQ/0.jpg)](http://www.youtube.com/watch?v=l4Vrj7mkxhQ "Guided Tour for Red Hat OpenShift on IBM Cloud")
+
+2. Create an OpenShift cluster on the IBM Cloud: 
+
+[![Workshop 1 - Understanding OpenShift - Part 2: Create OpenShift cluster on IBM Cloud](http://img.youtube.com/vi/9xgqDP2B3WI/0.jpg)](http://www.youtube.com/watch?v=9xgqDP2B3WI "Workshop 1 - Understanding OpenShift - Part 2: Create OpenShift cluster on IBM Cloud")
+
 3. Getting started with OpenShift for developers: [lab](https://learn.openshift.com/introduction/getting-started/) and [video (12:38 mins)](https://www.youtube.com/watch?v=boJOI0DgSTc&list=PL0Mrq9ES4ERfGpB0K5PHYmvl2xV60GSQz&index=4&t=0s)
 4. Deploying applications from images: [lab](https://learn.openshift.com/introduction/deploying-images/) and [video (9:00 mins)](https://www.youtube.com/watch?v=v_j3TiurPQc&list=PL0Mrq9ES4ERfGpB0K5PHYmvl2xV60GSQz&index=5&t=0s)
 5. Deploying applications from source: [lab](https://learn.openshift.com/introduction/deploying-python/) and [video (10:28 mins)](https://www.youtube.com/watch?v=2CtThlhgOYs&list=PL0Mrq9ES4ERfGpB0K5PHYmvl2xV60GSQz&index=6&t=0s)
