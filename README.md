@@ -47,20 +47,27 @@ How to create an OpenShift cluster in IBM Cloud, how to create a project in the 
 4. Select the US East Region
 
 Your completed screen should resemble what's below:
+
 ![checkedWelcome](images/checkedWelcome.png)
 
+
 After submitting, you should see a screen similar to the following image:
+
 ![congrats](images/congrats.png)
+
 
 Log in to your cloud account and have a look at your dashboard. In the dropdown where your name is displayed, select 1840867 - IBM
 
 ![dashboard](images/dashboard.png)
 
+
 Select "Clusters" and click on your cluster that was assigned to you when you submitted your credentials:
 
 ![dashboard2](images/dashboard2.png)
 
+
 You should be taken to the page for your cluster which will resemble the page below:
+
 ![cluster dashboard](images/osCloud.png)
 
 
