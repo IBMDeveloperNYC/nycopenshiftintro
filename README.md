@@ -21,9 +21,13 @@ This workshop has been adapted from [this repository](https://github.com/nheidlo
 
 Our colleague Sai Vennam, IBM Cloud Developer Advocate, has created two videos about OpenShift on the IBM Cloud that you should watch:
 
+#### Intro to Red Hat OpenShift on IBM Cloud
+
 [![Intro to Red Hat OpenShift on IBM Cloud](http://img.youtube.com/vi/hdwDMsDF9J8/0.jpg)](http://www.youtube.com/watch?v=hdwDMsDF9J8 "Intro to Red Hat OpenShift on IBM Cloud")
 
 What is OpenShift? OpenShift on the IBM Cloud is a fully managed offering, with multiple deployment options, and certification. It is a Unified Hybrid Cloud platform.
+
+#### Guided Tour for Red Hat OpenShift on IBM Cloud
 
 [![Guided Tour for Red Hat OpenShift on IBM Cloud](http://img.youtube.com/vi/l4Vrj7mkxhQ/0.jpg)](http://www.youtube.com/watch?v=l4Vrj7mkxhQ "Guided Tour for Red Hat OpenShift on IBM Cloud")
 
