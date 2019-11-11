@@ -41,9 +41,9 @@ How to create an OpenShift cluster in IBM Cloud, how to create a project in the 
 
 #### Special Process for Us Today:
 
-1. Make sure you've created your IBM Account. If you haven't yet, please use the following link: https://ibm.biz/BdzAjk
-2. Navigate to https://osworkshop.mybluemix.net/
-3. Use the key for this event (ask nigel if you don't have it)
+1. Make sure you've created your IBM Account. If you haven't yet, please use the following link: https://ibm.biz/BdzCzv
+2. Navigate to https://nycopenshift.mybluemix.net
+3. Use the key for this event  `oslab`
 4. Select the US East Region
 
 Your completed screen should resemble what's below:
