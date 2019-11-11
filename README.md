@@ -6,7 +6,7 @@ With Red Hat OpenShift on IBM Cloud developers have a fast and secure way to con
 
 This repository holds a series of workshops that help you as a developer to become familiar with Red Hat OpenShift, how it can be deployed on the IBM Cloud, and how to deploy applications on and with OpenShift.
 
-In order to run these workshops, you need an [IBM Cloud account](https://ibm.biz/BdzAjk).
+In order to run these workshops, you need an [IBM Cloud account](https://ibm.biz/BdzCzv).
 
 ## Workshop 1: Understanding OpenShift
 
